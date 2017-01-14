@@ -1,0 +1,20 @@
+H:\Programming\C#\Book Library\Book Library\bin\Debug\Book Library.exe.config
+H:\Programming\C#\Book Library\Book Library\bin\Debug\Book Library.exe
+H:\Programming\C#\Book Library\Book Library\bin\Debug\Book Library.pdb
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book Library.csprojResolveAssemblyReference.cache
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book_Library.Form1.resources
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book_Library.Properties.Resources.resources
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book Library.csproj.GenerateResource.Cache
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book Library.exe
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book Library.pdb
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book_Library.AboutBox1.resources
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book_Library.findBox.resources
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book_Library.frmAdd.resources
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book_Library.frmSearch.resources
+H:\Programming\C#\Book Library\Book Library\bin\Debug\Book Library.exe.manifest
+H:\Programming\C#\Book Library\Book Library\bin\Debug\Book Library.application
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book Library.exe.manifest
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book Library.application
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book_Library.AddAuthor.resources
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book_Library.addGenre.resources
+H:\Programming\C#\Book Library\Book Library\obj\Debug\Book_Library.AddSeries.resources
